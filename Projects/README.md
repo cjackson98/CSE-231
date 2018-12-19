@@ -1,0 +1,1 @@
+These were projects given for us to work on alone as homework each week. We were given a week to complete each assignment. I unfortunately did not download/save the project descriptions at the time of taking the class and cannot find them online, however each project should have a small description at the beginning explaining what it does.
