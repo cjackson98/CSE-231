@@ -1,4 +1,4 @@
-# CSE-231
+# CSE-231-Introduction-to-Programming-I
 
 Introduction to Programming I offered by MSU.
 Taken in the FS17 semester.
